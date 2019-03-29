@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "candidates"
+		},
+		{
+			"path": "core"
+		},
+		{
+			"path": "env"
+		},
+		{
+			"path": "templates"
+		}
+	]
+}
